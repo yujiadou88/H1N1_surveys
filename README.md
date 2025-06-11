@@ -40,7 +40,7 @@ We are continuing to analyze our survey data and further work is in preparation.
 
 ## Authors and investigators
 
-The principal investigators of this study are [Richard Fielding](http://sph.hku.hk/faculty_and_staff_detail.php?id=20) and [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John). The data were uploaded by [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John), and the scripts were written by [Diane Ng](http://sph.hku.hk/faculty_and_staff_detail.php?id=87), [Vicky Fang](http://sph.hku.hk/faculty_and_staff_detail.php?id=57) and [Ben Cowling](http://www.hku.hk/cmd/staff/bio/cowling.htm).
+The principal investigators of this study are Richard Fielding and [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John). The data were uploaded by [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John), and the scripts were written by Diane Ng, Vicky Fang and [Ben Cowling](http://www.hku.hk/cmd/staff/bio/cowling.htm).
 
 ## A comment on reproducible research
 
