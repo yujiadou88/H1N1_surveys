@@ -9,12 +9,8 @@
 # Last updated by Diane Ng, Vicky Fang and Ben Cowling.
 # October 26, 2010
 
-require(here)
 
-here::i_am("H1N1_surveys_scripts/Table_3.r")
-
-# source("http://www.hku.hk/bcowling/influenza/H1N1_surveys_scripts/dataframe.r")
-source(here("H1N1_surveys_scripts", "dataframe.r"))
+source("../H1N1_surveys_scripts/dataframe.r")
 
 require(MASS)
 

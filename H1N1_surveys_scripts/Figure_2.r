@@ -9,11 +9,8 @@
 # Last updated by Diane Ng, Vicky Fang and Ben Cowling.
 # October 26, 2010
 
-require(here)
 
-# raw.cases <- read.csv("http://sph.hku.hk/data/cum_casesv1.csv")
-here::i_am("H1N1_surveys_scripts/Figure_2.r")
-raw.cases <- read.csv(here::here("data", "cum_casesv1.csv"))
+raw.cases <- read.csv("../data/cum_casesv1.csv")
 
 require(IDPmisc)
 require(fields)

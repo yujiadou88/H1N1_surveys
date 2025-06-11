@@ -11,11 +11,8 @@
 
 
 require(Design)
-require(here)
 
-# survey <- read.csv("http://sph.hku.hk/data/HKU_surveys_v1.csv")
-here::i_am("H1N1_surveys_scripts/dataframe.r")
-survey <- read.csv(here::here("data", "HKU_surveys_v1.csv"))
+survey <- read.csv("../data/HKU_surveys_v1.csv")
 subset <- survey[survey$wave>2&survey$wave!=6,]
 
 # exclude fever+cough OR fever+sore throat
