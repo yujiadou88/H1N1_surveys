@@ -61,7 +61,7 @@ Publication of anonymised raw data has been approved by our local IRB and fundin
 
 1.  Cowling BJ, Ng DMW, Ip DKM, Liao Q, Lam WWT, Wu JT, Lau JTF, Griffiths SM, Fielding R. Community psychological and behavioral responses through the first wave of 2009 influenza A(H1N1) pandemic in Hong Kong. *Journal of Infectious Diseases*, 2010; **202**(6):867-876. [[link]](https://doi.org/10.1086/655811) [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/20677945)
 
-Acknowledgements
+## Acknowledgements
 
 This study received funding from the Research Fund for the Control of Infectious Disease, Food and Health Bureau, Government of the Hong Kong SAR (grant no. PHE-1), and the Area of Excellence Scheme of the Hong Kong University Grants Committee (grant no. AoE/M-12/06).
 

@@ -10,7 +10,7 @@
 # October 26, 2010
 
 
-require(Design)
+require(rms)
 
 survey <- read.csv("../data/HKU_surveys_v1.csv")
 subset <- survey[survey$wave>2&survey$wave!=6,]
