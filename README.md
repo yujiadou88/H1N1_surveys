@@ -8,7 +8,7 @@ Our group has been conducting a series of population surveys in collaboration wi
 
 ## 2. Raw data
 
-Raw data from our surveys is available to download as a zip file here:
+Raw data from our surveys is available to here:
 
 -   [HKU_surveys_v1.csv](data/HKU_surveys_v1.csv "Hong Kong H1N1 surveys dataset version 1")
 
